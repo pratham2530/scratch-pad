@@ -1,9 +1,12 @@
 # Pratham_Bhargava_CV
-This repo contains files from my CV and links to coding projects. 
+This repository contains files from my CV and links to coding projects. 
 
 ## Files
 ### CV
 -  **Pratham_Bhargava_CV.pdf** - compiled PDF of my CV. (In Progress)
+
+### Matrix Game Solver
+
 
 ### Research Project on Polya Urn Models and Martingale Theory
 -  **Research_Project_Polya_Urns.tex** - LaTeX source file of my research project. (In Progress)
