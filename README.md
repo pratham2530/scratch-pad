@@ -6,6 +6,7 @@ This repository contains files from my CV and links to coding projects.
 -  **Pratham_Bhargava_CV.pdf** - compiled PDF of my CV. (In Progress)
 
 ### Matrix Game Solver
+- https://github.com/pratham2530/Matrix_Game_Solver.git 
 
 
 ### Research Project on Polya Urn Models and Martingale Theory
