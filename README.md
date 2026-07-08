@@ -14,6 +14,6 @@ Maths and coding write ups of different topics I've come across in class or myse
 - `euler-product-formula.ipynb`: deriving $\mathbb{P}(\mathrm{gcd}(a,b)=1)=\frac{6}{\pi^2}$ and proving the Basel problem including proofs by Fourier series, trigonometry and exploiting circles.
   ![Using the basel sum to show the speed of convergence to pi](notebooks/images/euler-product-formula.png)
   
-  *Figure 2: Using the basel sum to show the speed of convergence to $\pi$.*
+  *Figure 2: Using the basel sum to show the speed of convergence to pi.*
   
 - `proof-assistant-essay`: my essay for the Caius Explore on the proof assistant Coq.
