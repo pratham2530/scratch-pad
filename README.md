@@ -7,13 +7,13 @@ Maths and coding write ups of different topics I've come across in class or myse
 - `approximating-pi.ipynb`: approximating $\pi$ using the areas of inscribed and circumscribed polygons.
   ![Areas of inscribed (green) and circumscribed (red) polygons of a unit circle at different numbers of sides](notebooks/images/approximating-pi.png)
   
-  *Figure 1: areas of inscribed (green) and circumscribed (red) polygons of a unit circle and different side lengths.*
+  *Figure 1: Areas of inscribed (green) and circumscribed (red) polygons of a unit circle and different side lengths.*
   
 - `euclidean-algorithm.ipynb`: proving the Euclidean algorithm works, deriving the time complexity using Fibonnaci numbers, and implementing Bezout's lemma in python.
    
-- `euler-product-formula.ipynb`: deriving P(gcd(a,b)=1)=6/pi^2 and proving the Basel problem including proofs by Fourier series, trigonometry and exploiting circles.
+- `euler-product-formula.ipynb`: deriving $\mathbb{P}(\mathrm{gcd}(a,b)=1)=\frac{6}{\pi^2}$ and proving the Basel problem including proofs by Fourier series, trigonometry and exploiting circles.
   ![Using the basel sum to show the speed of convergence to pi](notebooks/images/euler-product-formula.png)
   
-  *Figure 2: using the basel sum to show the speed of convergence to pi.*
+  *Figure 2: Using the basel sum to show the speed of convergence to $\pi$.*
   
 - `proof-assistant-essay`: my essay for the Caius Explore on the proof assistant Coq.
