@@ -3,7 +3,7 @@
 Maths and coding write ups of different topics I've come across in class or myself and found interesting: 
 
 - `algorithms-and-ds.py`: graphs (Dijkstra's, Bellman-Ford, Ford-Fulkerson) and Fenwick tree implementation.
-- 
+  
 - `approximating-pi.ipynb`: approximating $\pi$ using the areas of inscribed and circumscribed polygons.
   ![](notebooks/images/approximating-pi.png)
 - `euclidean-algorithm.ipynb`: proving the Euclidean algorithm works, deriving the time complexity using Fibonnaci numbers, and implementing Bezout's lemma in python. 
