@@ -214,7 +214,7 @@ class FenwickTree:
     def update(self, i: int, delta: int) -> None:
         while i < self.size:
             self.tree[i] += delta
-            i += i & (-i) # jump to next index whose range contains i (see README)
+            i += i & (-i) # jump to next index whose range contains i (see algorithms_and_ds_notes.md)
 
     def prefix_query(self, i: int) -> int:
         total_sum = 0
