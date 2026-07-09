@@ -2,7 +2,7 @@
 
 Maths and coding write ups of different topics I've come across in class or myself and found interesting: 
 
-- `algorithms-and-ds.py`: graphs (Dijkstra's, Bellman-Ford, Ford-Fulkerson) and Fenwick tree implementation.
+- `algorithms-and-ds.py`: graphs (Dijkstra's, Bellman-Ford, Ford-Fulkerson) and Fenwick tree implementation (including proofs for the update and prefix-sum index jumps). 
   
 - `approximating-pi.ipynb`: approximating $\pi$ using the areas of inscribed and circumscribed polygons.
   ![Areas of inscribed (green) and circumscribed (red) polygons of a unit circle at different numbers of sides](notebooks/images/approximating-pi.png)
